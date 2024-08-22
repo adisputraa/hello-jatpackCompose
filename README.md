@@ -7,7 +7,7 @@ This application uses a declarative approach in its code. The features implement
 - Implementation theme
 
 ## Image
-
+<img src="https://github.com/adisputraa/img/blob/main/WhatsApp%20Image%202024-08-22%20at%2015.51.48_032ea6bb.jpg?raw=true">
 
 ## Build
 1. Open Git bash here
